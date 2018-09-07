@@ -1,1 +1,15 @@
-Ansible is configuration  management and provisioning tool
+Ansible is configuration  management and provisioning tool or we can say that it's an automation language.
+It uses ssh(22) to connect servers and run the task.
+
+Ansible’s is agentless architecture.
+
+Ansible uses "Facts" i.e system and environment information it gathors ("context").
+
+Ansible is safe because it uses "Facts" before running task.
+
+Ansible is idempotence.(Delete/Post is non-idempotence)
+
+
+        
+
+
